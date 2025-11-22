@@ -1,0 +1,210 @@
+﻿merchant,category,location
+CCD AP 11:58 TXN#001 ₹892,Tea/Coffee,Andhra Pradesh
+COFFEE GNT 19:03 TXN#002 ₹796,Tea/Coffee,Andhra Pradesh
+TEA VIJ 12:42 TXN#003 ₹265,Tea/Coffee,Andhra Pradesh
+BREW HYD 22:04 TXN#004 ₹131,Tea/Coffee,Telangana
+CCD TLG 11:14 TXN#005 ₹905,Tea/Coffee,Telangana
+BREW CHN 18:13 TXN#006 ₹294,Tea/Coffee,Tamil Nadu
+COFFEE TND 15:33 TXN#007 ₹740,Tea/Coffee,Tamil Nadu
+BREW KRL 20:52 TXN#008 ₹826,Tea/Coffee,Kerala
+COFFEE KER 12:32 TXN#009 ₹160,Tea/Coffee,Kerala
+CAFÉ GANG 20:55 TXN#010 ₹840,Tea/Coffee,Sikkim
+BREW GANGTOK 15:49 TXN#011 ₹76,Tea/Coffee,Sikkim
+RESTAURANT AP 12:16 TXN#012 ₹30,Restaurant,Andhra Pradesh
+DINE GNT 09:24 TXN#013 ₹348,Restaurant,Andhra Pradesh
+RESTAURANT VIJ 19:55 TXN#014 ₹205,Restaurant,Andhra Pradesh
+RESTAURANT HYD 13:54 TXN#015 ₹476,Restaurant,Telangana
+RESTAURANT TLG 11:22 TXN#016 ₹304,Restaurant,Telangana
+RESTAURANT CHN 21:15 TXN#017 ₹156,Restaurant,Tamil Nadu
+DINE TND 19:47 TXN#018 ₹313,Restaurant,Tamil Nadu
+HOTEL KRL 14:04 TXN#019 ₹640,Restaurant,Kerala
+FOOD KER 11:18 TXN#020 ₹386,Restaurant,Kerala
+HOTEL GANG 20:40 TXN#021 ₹235,Restaurant,Sikkim
+DINE GANGTOK 10:01 TXN#022 ₹949,Restaurant,Sikkim
+SHELL AP 16:40 TXN#023 ₹647,Fuel,Andhra Pradesh
+DIESEL GNT 08:47 TXN#024 ₹238,Fuel,Andhra Pradesh
+PETROL VIJ 08:12 TXN#025 ₹75,Fuel,Andhra Pradesh
+SHELL HYD 21:26 TXN#026 ₹568,Fuel,Telangana
+SHELL TLG 20:51 TXN#027 ₹68,Fuel,Telangana
+DIESEL CHN 09:34 TXN#028 ₹756,Fuel,Tamil Nadu
+PETROL TND 12:44 TXN#029 ₹339,Fuel,Tamil Nadu
+SHELL KRL 15:17 TXN#030 ₹822,Fuel,Kerala
+PETROL KER 21:49 TXN#031 ₹657,Fuel,Kerala
+SHELL GANG 13:51 TXN#032 ₹99,Fuel,Sikkim
+SHELL GANGTOK 14:14 TXN#033 ₹393,Fuel,Sikkim
+GROCERY AP 15:40 TXN#034 ₹293,Groceries/Vegetables,Andhra Pradesh
+VEG GNT 17:05 TXN#035 ₹645,Groceries/Vegetables,Andhra Pradesh
+MARKET VIJ 22:31 TXN#036 ₹906,Groceries/Vegetables,Andhra Pradesh
+GROCERY HYD 15:29 TXN#037 ₹757,Groceries/Vegetables,Telangana
+MARKET TLG 19:54 TXN#038 ₹36,Groceries/Vegetables,Telangana
+VEG CHN 16:32 TXN#039 ₹269,Groceries/Vegetables,Tamil Nadu
+GROCERY TND 17:18 TXN#040 ₹807,Groceries/Vegetables,Tamil Nadu
+SUPERMART KRL 08:02 TXN#041 ₹324,Groceries/Vegetables,Kerala
+VEG KER 12:08 TXN#042 ₹543,Groceries/Vegetables,Kerala
+MARKET GANG 16:23 TXN#043 ₹237,Groceries/Vegetables,Sikkim
+VEG GANGTOK 18:45 TXN#044 ₹880,Groceries/Vegetables,Sikkim
+BREAD AP 15:33 TXN#045 ₹760,Daily Essentials,Andhra Pradesh
+MILK GNT 08:29 TXN#046 ₹252,Daily Essentials,Andhra Pradesh
+DAIRY VIJ 16:49 TXN#047 ₹48,Daily Essentials,Andhra Pradesh
+BREAD HYD 12:09 TXN#048 ₹492,Daily Essentials,Telangana
+MILK TLG 20:14 TXN#049 ₹778,Daily Essentials,Telangana
+BREAD CHN 21:46 TXN#050 ₹559,Daily Essentials,Tamil Nadu
+BREAD TND 14:44 TXN#051 ₹577,Daily Essentials,Tamil Nadu
+MILK KRL 17:26 TXN#052 ₹440,Daily Essentials,Kerala
+BREAD KER 10:27 TXN#053 ₹990,Daily Essentials,Kerala
+BREAD GANG 09:42 TXN#054 ₹975,Daily Essentials,Sikkim
+BREAD GANGTOK 12:39 TXN#055 ₹217,Daily Essentials,Sikkim
+MCD AP 12:59 TXN#056 ₹125,Fast Food,Andhra Pradesh
+KFC GNT 16:03 TXN#057 ₹648,Fast Food,Andhra Pradesh
+BURGER VIJ 13:38 TXN#058 ₹949,Fast Food,Andhra Pradesh
+MCD HYD 14:11 TXN#059 ₹298,Fast Food,Telangana
+PIZZA TLG 16:29 TXN#060 ₹578,Fast Food,Telangana
+KFC CHN 14:52 TXN#061 ₹230,Fast Food,Tamil Nadu
+BURGER TND 16:19 TXN#062 ₹610,Fast Food,Tamil Nadu
+DOMINOS KRL 16:01 TXN#063 ₹559,Fast Food,Kerala
+MCD KER 18:16 TXN#064 ₹599,Fast Food,Kerala
+PIZZA GANG 19:06 TXN#065 ₹944,Fast Food,Sikkim
+FAST FOOD GANGTOK 08:54 TXN#066 ₹135,Fast Food,Sikkim
+SWEET SHOP AP 11:19 TXN#067 ₹311,Bakeries/Sweets,Andhra Pradesh
+BAKERY GNT 17:58 TXN#068 ₹499,Bakeries/Sweets,Andhra Pradesh
+SWEET SHOP VIJ 10:04 TXN#069 ₹42,Bakeries/Sweets,Andhra Pradesh
+CAKE HYD 10:21 TXN#070 ₹636,Bakeries/Sweets,Telangana
+MITHAI TLG 21:57 TXN#071 ₹703,Bakeries/Sweets,Telangana
+PASTRY CHN 08:25 TXN#072 ₹824,Bakeries/Sweets,Tamil Nadu
+MITHAI TND 20:08 TXN#073 ₹521,Bakeries/Sweets,Tamil Nadu
+CAKE KRL 19:57 TXN#074 ₹852,Bakeries/Sweets,Kerala
+HALWAI KER 09:31 TXN#075 ₹529,Bakeries/Sweets,Kerala
+PASTRY GANG 22:10 TXN#076 ₹495,Bakeries/Sweets,Sikkim
+CAKE GANGTOK 09:50 TXN#077 ₹30,Bakeries/Sweets,Sikkim
+MEDICAL AP 19:59 TXN#078 ₹552,Medical/Pharmacy,Andhra Pradesh
+CHEMIST GNT 16:56 TXN#079 ₹453,Medical/Pharmacy,Andhra Pradesh
+MEDICAL VIJ 22:45 TXN#080 ₹850,Medical/Pharmacy,Andhra Pradesh
+APOLLO HYD 10:51 TXN#081 ₹288,Medical/Pharmacy,Telangana
+PHARMACY TLG 08:04 TXN#082 ₹843,Medical/Pharmacy,Telangana
+MEDICAL CHN 20:26 TXN#083 ₹163,Medical/Pharmacy,Tamil Nadu
+DRUG STORE TND 22:34 TXN#084 ₹279,Medical/Pharmacy,Tamil Nadu
+PHARMACY KRL 13:54 TXN#085 ₹585,Medical/Pharmacy,Kerala
+MEDPLUS KER 14:47 TXN#086 ₹525,Medical/Pharmacy,Kerala
+PHARMACY GANG 10:13 TXN#087 ₹103,Medical/Pharmacy,Sikkim
+APOLLO GANGTOK 22:43 TXN#088 ₹616,Medical/Pharmacy,Sikkim
+RECHARGE AP 09:55 TXN#089 ₹490,Telecom/Internet,Andhra Pradesh
+BROADBAND GNT 21:06 TXN#090 ₹772,Telecom/Internet,Andhra Pradesh
+JIO VIJ 19:20 TXN#091 ₹39,Telecom/Internet,Andhra Pradesh
+VI HYD 12:15 TXN#092 ₹940,Telecom/Internet,Telangana
+RECHARGE TLG 12:47 TXN#093 ₹395,Telecom/Internet,Telangana
+FIBER CHN 19:16 TXN#094 ₹975,Telecom/Internet,Tamil Nadu
+FIBER TND 09:55 TXN#095 ₹803,Telecom/Internet,Tamil Nadu
+BROADBAND KRL 13:55 TXN#096 ₹914,Telecom/Internet,Kerala
+JIO KER 14:24 TXN#097 ₹323,Telecom/Internet,Kerala
+JIO GANG 21:27 TXN#098 ₹873,Telecom/Internet,Sikkim
+RECHARGE GANGTOK 16:48 TXN#099 ₹389,Telecom/Internet,Sikkim
+POWER AP 10:26 TXN#100 ₹72,Utilities,Andhra Pradesh
+WATER BILL GNT 20:58 TXN#101 ₹535,Utilities,Andhra Pradesh
+GAS VIJ 13:25 TXN#102 ₹798,Utilities,Andhra Pradesh
+GAS HYD 15:54 TXN#103 ₹752,Utilities,Telangana
+GAS TLG 18:49 TXN#104 ₹340,Utilities,Telangana
+BESCOM CHN 08:42 TXN#105 ₹636,Utilities,Tamil Nadu
+WATER BILL TND 19:14 TXN#106 ₹129,Utilities,Tamil Nadu
+GAS KRL 22:20 TXN#107 ₹352,Utilities,Kerala
+BILLS KER 09:50 TXN#108 ₹580,Utilities,Kerala
+WATER BILL GANG 13:52 TXN#109 ₹984,Utilities,Sikkim
+BILLS GANGTOK 17:37 TXN#110 ₹82,Utilities,Sikkim
+BOUTIQUE AP 18:39 TXN#111 ₹647,Apparel/Fashion,Andhra Pradesh
+FASHION GNT 20:05 TXN#112 ₹264,Apparel/Fashion,Andhra Pradesh
+MENSWEAR VIJ 20:35 TXN#113 ₹483,Apparel/Fashion,Andhra Pradesh
+MENSWEAR HYD 21:39 TXN#114 ₹104,Apparel/Fashion,Telangana
+MENSWEAR TLG 18:24 TXN#115 ₹611,Apparel/Fashion,Telangana
+FASHION CHN 17:21 TXN#116 ₹467,Apparel/Fashion,Tamil Nadu
+SHOPPER TND 08:59 TXN#117 ₹730,Apparel/Fashion,Tamil Nadu
+FASHION KRL 08:08 TXN#118 ₹620,Apparel/Fashion,Kerala
+BOUTIQUE KER 14:24 TXN#119 ₹157,Apparel/Fashion,Kerala
+APPAREL GANG 19:04 TXN#120 ₹707,Apparel/Fashion,Sikkim
+CLOTHES GANGTOK 10:35 TXN#121 ₹351,Apparel/Fashion,Sikkim
+RELIANCEDIGITAL AP 10:14 TXN#122 ₹187,Electronics,Andhra Pradesh
+CHROMA GNT 10:16 TXN#123 ₹843,Electronics,Andhra Pradesh
+TV VIJ 16:44 TXN#124 ₹696,Electronics,Andhra Pradesh
+GADGET HYD 22:45 TXN#125 ₹718,Electronics,Telangana
+GADGET TLG 10:42 TXN#126 ₹706,Electronics,Telangana
+RELIANCEDIGITAL CHN 08:49 TXN#127 ₹759,Electronics,Tamil Nadu
+LAPTOP TND 19:15 TXN#128 ₹736,Electronics,Tamil Nadu
+ELECTRONICS KRL 21:46 TXN#129 ₹578,Electronics,Kerala
+MOBILE KER 12:13 TXN#130 ₹512,Electronics,Kerala
+ELECTRONICS GANG 15:51 TXN#131 ₹278,Electronics,Sikkim
+LAPTOP GANGTOK 16:02 TXN#132 ₹875,Electronics,Sikkim
+SHOP AP 10:46 TXN#133 ₹491,E-commerce,Andhra Pradesh
+CART GNT 17:53 TXN#134 ₹853,E-commerce,Andhra Pradesh
+AMAZON VIJ 16:04 TXN#135 ₹938,E-commerce,Andhra Pradesh
+MYNTRA HYD 21:52 TXN#136 ₹432,E-commerce,Telangana
+MEESHO TLG 08:21 TXN#137 ₹299,E-commerce,Telangana
+FLIPKART CHN 18:59 TXN#138 ₹307,E-commerce,Tamil Nadu
+CART TND 21:19 TXN#139 ₹938,E-commerce,Tamil Nadu
+SNAPDEAL KRL 17:59 TXN#140 ₹852,E-commerce,Kerala
+SHOP KER 13:02 TXN#141 ₹418,E-commerce,Kerala
+AMAZON GANG 11:37 TXN#142 ₹283,E-commerce,Sikkim
+MYNTRA GANGTOK 22:00 TXN#143 ₹65,E-commerce,Sikkim
+OLA AP 09:49 TXN#144 ₹852,Travel/Transport,Andhra Pradesh
+UBER GNT 17:50 TXN#145 ₹34,Travel/Transport,Andhra Pradesh
+TAXI VIJ 15:51 TXN#146 ₹885,Travel/Transport,Andhra Pradesh
+UBER HYD 20:58 TXN#147 ₹563,Travel/Transport,Telangana
+TAXI TLG 10:55 TXN#148 ₹738,Travel/Transport,Telangana
+UBER CHN 17:38 TXN#149 ₹448,Travel/Transport,Tamil Nadu
+AUTO TND 13:54 TXN#150 ₹865,Travel/Transport,Tamil Nadu
+TAXI KRL 12:52 TXN#151 ₹540,Travel/Transport,Kerala
+IRCTC KER 17:43 TXN#152 ₹285,Travel/Transport,Kerala
+TAXI GANG 15:48 TXN#153 ₹493,Travel/Transport,Sikkim
+AUTO GANGTOK 22:28 TXN#154 ₹677,Travel/Transport,Sikkim
+SPA AP 12:44 TXN#155 ₹820,Beauty/Salon,Andhra Pradesh
+SPA GNT 12:22 TXN#156 ₹263,Beauty/Salon,Andhra Pradesh
+PARLOUR VIJ 22:55 TXN#157 ₹700,Beauty/Salon,Andhra Pradesh
+HAIRCUT HYD 18:53 TXN#158 ₹675,Beauty/Salon,Telangana
+BARBER TLG 14:01 TXN#159 ₹634,Beauty/Salon,Telangana
+PARLOUR CHN 09:37 TXN#160 ₹639,Beauty/Salon,Tamil Nadu
+BARBER TND 19:35 TXN#161 ₹638,Beauty/Salon,Tamil Nadu
+PARLOUR KRL 22:32 TXN#162 ₹364,Beauty/Salon,Kerala
+HAIRCUT KER 22:25 TXN#163 ₹683,Beauty/Salon,Kerala
+BEAUTY GANG 09:01 TXN#164 ₹521,Beauty/Salon,Sikkim
+SALON GANGTOK 09:35 TXN#165 ₹633,Beauty/Salon,Sikkim
+CHALLAN AP 19:49 TXN#166 ₹220,Government/Tax,Andhra Pradesh
+GOVERNMENT GNT 22:13 TXN#167 ₹214,Government/Tax,Andhra Pradesh
+MUNICIPAL VIJ 16:53 TXN#168 ₹473,Government/Tax,Andhra Pradesh
+TAX HYD 08:02 TXN#169 ₹76,Government/Tax,Telangana
+GOVERNMENT TLG 18:57 TXN#170 ₹417,Government/Tax,Telangana
+PROPERTY TAX CHN 16:28 TXN#171 ₹372,Government/Tax,Tamil Nadu
+GOVERNMENT TND 20:52 TXN#172 ₹779,Government/Tax,Tamil Nadu
+PROPERTY TAX KRL 15:05 TXN#173 ₹154,Government/Tax,Kerala
+GOVERNMENT KER 12:13 TXN#174 ₹439,Government/Tax,Kerala
+CHALLAN GANG 18:56 TXN#175 ₹510,Government/Tax,Sikkim
+GOVERNMENT GANGTOK 21:08 TXN#176 ₹325,Government/Tax,Sikkim
+FEES AP 17:23 TXN#177 ₹548,Education,Andhra Pradesh
+UNIVERSITY GNT 09:57 TXN#178 ₹228,Education,Andhra Pradesh
+UNIVERSITY VIJ 15:54 TXN#179 ₹759,Education,Andhra Pradesh
+COACHING HYD 09:17 TXN#180 ₹130,Education,Telangana
+FEES TLG 13:47 TXN#181 ₹611,Education,Telangana
+UNIVERSITY CHN 15:12 TXN#182 ₹772,Education,Tamil Nadu
+TUITION TND 17:42 TXN#183 ₹954,Education,Tamil Nadu
+COACHING KRL 12:49 TXN#184 ₹815,Education,Kerala
+COACHING KER 19:44 TXN#185 ₹569,Education,Kerala
+FEES GANG 22:58 TXN#186 ₹940,Education,Sikkim
+SCHOOL GANGTOK 21:26 TXN#187 ₹788,Education,Sikkim
+BEER AP 12:49 TXN#188 ₹130,Alcohol/Liquor,Andhra Pradesh
+LIQUOR GNT 14:06 TXN#189 ₹340,Alcohol/Liquor,Andhra Pradesh
+DESI VIJ 18:05 TXN#190 ₹178,Alcohol/Liquor,Andhra Pradesh
+BAR HYD 15:55 TXN#191 ₹198,Alcohol/Liquor,Telangana
+BAR TLG 18:40 TXN#192 ₹720,Alcohol/Liquor,Telangana
+PUB CHN 22:16 TXN#193 ₹111,Alcohol/Liquor,Tamil Nadu
+BAR TND 14:02 TXN#194 ₹769,Alcohol/Liquor,Tamil Nadu
+WINE KRL 19:50 TXN#195 ₹339,Alcohol/Liquor,Kerala
+WINE KER 16:11 TXN#196 ₹935,Alcohol/Liquor,Kerala
+BAR GANG 12:58 TXN#197 ₹324,Alcohol/Liquor,Sikkim
+BAR GANGTOK 11:39 TXN#198 ₹195,Alcohol/Liquor,Sikkim
+INSURANCE AP 22:19 TXN#199 ₹878,Others (Large Payments),Andhra Pradesh
+GOLD GNT 10:19 TXN#200 ₹32,Others (Large Payments),Andhra Pradesh
+SECURITIES VIJ 13:34 TXN#201 ₹778,Others (Large Payments),Andhra Pradesh
+MUTUAL FUND HYD 10:57 TXN#202 ₹497,Others (Large Payments),Telangana
+DEBT TLG 08:27 TXN#203 ₹308,Others (Large Payments),Telangana
+DEBT CHN 19:41 TXN#204 ₹136,Others (Large Payments),Tamil Nadu
+JEWELLERY TND 19:55 TXN#205 ₹401,Others (Large Payments),Tamil Nadu
+SECURITIES KRL 15:20 TXN#206 ₹592,Others (Large Payments),Kerala
+DEBT KER 12:07 TXN#207 ₹820,Others (Large Payments),Kerala
+LOAN GANG 16:41 TXN#208 ₹884,Others (Large Payments),Sikkim
+EMI GANGTOK 22:22 TXN#209 ₹771,Others (Large Payments),Sikkim
